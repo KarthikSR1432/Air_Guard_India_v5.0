@@ -1,0 +1,11 @@
+# Local runtime data and secrets
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+venv/
+.streamlit/secrets.toml
