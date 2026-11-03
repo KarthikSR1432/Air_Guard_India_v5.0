@@ -1,0 +1,12 @@
+streamlit>=1.38
+streamlit-autorefresh>=1.0.1
+streamlit-geolocation>=0.0.10
+pandas>=2.1
+numpy>=1.26
+requests>=2.31
+plotly>=5.20
+scikit-learn>=1.4
+reportlab>=4.0
+folium>=0.16
+streamlit-folium>=0.20
+python-dotenv>=1.0
